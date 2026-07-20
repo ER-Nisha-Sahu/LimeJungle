@@ -10,6 +10,10 @@ Through this project, I practiced:
 
 ![LimeJungle Screenshot](./assets/screenshot.png)
 
+## Live Demo
+
+🔗 https://ER-Nisha-Sahu.github.io/LimeJungle/
+
 ## 👩‍💻 Author
 
 Nisha Sahu
