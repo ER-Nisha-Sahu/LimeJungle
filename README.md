@@ -8,7 +8,7 @@ Through this project, I practiced:
 
 ## Screenshot
 
-![LimeJungle Screenshot](assets/screenshot.png)
+![LimeJungle Screenshot](./assets/screenshot.png)
 
 ## 👩‍💻 Author
 
